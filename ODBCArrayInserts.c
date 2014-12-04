@@ -1,6 +1,6 @@
 /*
 **
-**	ODBCArrayInsert.c
+**	ODBCArrayInserts.c
 **	written by Gordon Crenshaw from Progress DataDirect
 **
 **	This application was originally written and compiled in Visual Studio 2013 Express.  When compiling this application in Visual Studio, create
